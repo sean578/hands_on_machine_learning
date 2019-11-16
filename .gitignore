@@ -2,3 +2,5 @@
 *.csv
 *.tgz
 */data/*
+*/my_logs/*
+*.h5
