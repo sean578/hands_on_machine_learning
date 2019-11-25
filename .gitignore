@@ -5,3 +5,7 @@
 */my_logs/*
 *.h5
 *.png
+*.txt
+*.vocab
+*.feat
+*.tfrecord
